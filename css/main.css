@@ -17,10 +17,13 @@ body {
 }
 
 .carousel-inner{
-    max-height: 90rem;
+    max-height: 50rem;
+
 }
 @media (max-width:700px){
-    #intro { width:90% !important;
+    #intro { width:20% !important;
+
+
 #bg-contacto{
     position: relative;
     top: 130px;
@@ -31,11 +34,7 @@ body {
     
     }
 
-    .servicio-fila {
-            width:100% !important;
-            text-align: center;
     }
-}
 
 
 @media (max-width:576px){
@@ -49,7 +48,7 @@ body {
 
 footer{
     background: #082874;
-    min-height: 50px;
+    min-height: 45px;
 }
 
 footer p{
